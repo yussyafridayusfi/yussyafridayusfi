@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuss</h1>
-<h3 align="center">A passionate learner of backend developer and data enthusiast</h3>
+<h3 align="center">A passionate learner of development and data enthusiast</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
